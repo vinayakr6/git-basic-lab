@@ -1,1 +1,4 @@
 # DSA using C notes
+Stacks
+Queues
+Arrays
